@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merger_pdf/static/css/main.a1bb63a1.css",
+    "main.js": "/merger_pdf/static/js/main.58bc10c0.js",
+    "index.html": "/merger_pdf/index.html",
+    "main.a1bb63a1.css.map": "/merger_pdf/static/css/main.a1bb63a1.css.map",
+    "main.58bc10c0.js.map": "/merger_pdf/static/js/main.58bc10c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bb63a1.css",
+    "static/js/main.58bc10c0.js"
+  ]
+}
